@@ -25,8 +25,8 @@ function App() {
       <h1 className="text-teal-900 uppercase font-bold font-mono">
         spli <br /> tter
       </h1>
-      <div className="bg-white max-w-75 md:w-140 mx-auto rounded-lg  p-8 font-mono">
-        <div className="flex flex-col justify-center md:flex-row gap-6 w-60 md:w-120 mx-auto">
+      <div className="bg-white max-w-75 md:max-w-140 mx-auto rounded-lg  p-8 font-mono">
+        <div className="flex flex-col justify-center md:flex-row gap-6  md:w-120 mx-auto">
           <div className="flex flex-col gap-3 text-gray-500 text-left text-[8px] w-full">
             <Input
               label="Bill"
